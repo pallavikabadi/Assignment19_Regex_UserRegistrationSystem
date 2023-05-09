@@ -13,7 +13,7 @@ public class UserRegistration {
         newName.checkFirstName(firstName);
     }
     public void checkFirstName(String firstname){
-        String regex = "[A-Z]{1}[a-z]{2,}";
+        String regex = "[A-Z][a-z]{2,}";
 
         Pattern patternChecker = Pattern.compile(regex);
         Matcher matchChecker = patternChecker.matcher(firstname);
