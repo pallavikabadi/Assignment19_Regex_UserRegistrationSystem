@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.Uc10;
 
 import com.bridgelabz.Uc10.UserRegistration;
 import org.junit.Test;
