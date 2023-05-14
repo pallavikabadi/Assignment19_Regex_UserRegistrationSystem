@@ -1,6 +1,6 @@
 package com.bridgelabz.Uc11;
 
-import com.bridgelabz.Uc10.UserRegistration;
+import com.bridgelabz.Uc11.UserRegistration;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
